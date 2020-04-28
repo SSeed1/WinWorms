@@ -1,0 +1,19 @@
+C:\Users\User\Desktop\LabOdb5\LabOdb5\bin\Debug\LabOdb5.exe.config
+C:\Users\User\Desktop\LabOdb5\LabOdb5\bin\Debug\LabOdb5.exe
+C:\Users\User\Desktop\LabOdb5\LabOdb5\bin\Debug\LabOdb5.pdb
+C:\Users\User\Desktop\LabOdb5\LabOdb5\obj\Debug\LabOdb5.csprojAssemblyReference.cache
+C:\Users\User\Desktop\LabOdb5\LabOdb5\obj\Debug\LabOdb5.FormMain.resources
+C:\Users\User\Desktop\LabOdb5\LabOdb5\obj\Debug\LabOdb5.Properties.Resources.resources
+C:\Users\User\Desktop\LabOdb5\LabOdb5\obj\Debug\LabOdb5.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LabOdb5\LabOdb5\obj\Debug\LabOdb5.exe
+C:\Users\User\Desktop\LabOdb5\LabOdb5\obj\Debug\LabOdb5.pdb
+C:\Users\User\Desktop\Базы данных\LabOdb5\LabOdb5\obj\Debug\LabOdb5.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Базы данных\LabOdb5\LabOdb5\obj\Debug\LabOdb5.FormMain.resources
+C:\Users\User\Desktop\Базы данных\LabOdb5\LabOdb5\obj\Debug\LabOdb5.Properties.Resources.resources
+C:\Users\User\Desktop\Базы данных\LabOdb5\LabOdb5\obj\Debug\LabOdb5.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Базы данных\LabOdb5\LabOdb5\obj\Debug\LabOdb5.exe
+C:\Users\User\Desktop\Базы данных\LabOdb5\LabOdb5\obj\Debug\LabOdb5.pdb
+C:\Users\User\Desktop\Базы данных\LabOdb5\LabOdb5\bin\Debug\LabOdb5.exe.config
+C:\Users\User\Desktop\Базы данных\LabOdb5\LabOdb5\bin\Debug\LabOdb5.exe
+C:\Users\User\Desktop\Базы данных\LabOdb5\LabOdb5\bin\Debug\LabOdb5.pdb
+C:\Users\User\Desktop\Базы данных\LabOdb5\LabOdb5\obj\Debug\LabOdb5.Form_Project.resources
