@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\tbl_gr_dialog.o
+./debug\dialog_authorization.o
+./debug\mynewdelegate.o
+./debug\qrc_lab_1.o
+./debug\qrc_undo.o
+./debug\moc_mainwindow.o
+./debug\moc_tbl_gr_dialog.o
+./debug\moc_dialog_authorization.o
+);

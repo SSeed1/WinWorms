@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\LabObd6\LabObd6\bin\Debug\LabObd6.exe.config
+C:\Users\User\Desktop\LabObd6\LabObd6\bin\Debug\LabObd6.exe
+C:\Users\User\Desktop\LabObd6\LabObd6\bin\Debug\LabObd6.pdb
+C:\Users\User\Desktop\LabObd6\LabObd6\obj\Debug\LabObd6.csprojAssemblyReference.cache
+C:\Users\User\Desktop\LabObd6\LabObd6\obj\Debug\LabObd6.Form1.resources
+C:\Users\User\Desktop\LabObd6\LabObd6\obj\Debug\LabObd6.Properties.Resources.resources
+C:\Users\User\Desktop\LabObd6\LabObd6\obj\Debug\LabObd6.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LabObd6\LabObd6\obj\Debug\LabObd6.exe
+C:\Users\User\Desktop\LabObd6\LabObd6\obj\Debug\LabObd6.pdb
+C:\Users\User\Desktop\LabObd6\LabObd6\bin\Debug\db.mdb

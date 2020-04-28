@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\tbl_gr_dialog.o
+./release\dialog_authorization.o
+./release\mynewdelegate.o
+./release\qrc_lab_1.o
+./release\qrc_undo.o
+./release\moc_mainwindow.o
+./release\moc_tbl_gr_dialog.o
+./release\moc_dialog_authorization.o
+);
